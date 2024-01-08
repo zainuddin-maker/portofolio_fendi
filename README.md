@@ -1,3 +1,3 @@
 # Portfolio-V2
 
-[LIVE DEMO](https://portfolio-ci7x.onrender.com/)
+[LIVE DEMO](https://zainuddin-maker.github.io/portofolio_fendi/)
