@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Mailbox
+* source:	https://sketchfab.com/3d-models/low-poly-mailbox-37f7c6b207da4b669ef7a5d6e7dfd2c0
+* author:	Jessica Cooper (https://sketchfab.com/suicidal.wolf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Mailbox" (https://sketchfab.com/3d-models/low-poly-mailbox-37f7c6b207da4b669ef7a5d6e7dfd2c0) by Jessica Cooper (https://sketchfab.com/suicidal.wolf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

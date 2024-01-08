@@ -1,0 +1,11 @@
+Model Information:
+* title:	MailBox from It takes two
+* source:	https://sketchfab.com/3d-models/mailbox-from-it-takes-two-fa63c8de98d24968acc1d793d896bce0
+* author:	Alexandre Bedard (https://sketchfab.com/croustade)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MailBox from It takes two" (https://sketchfab.com/3d-models/mailbox-from-it-takes-two-fa63c8de98d24968acc1d793d896bce0) by Alexandre Bedard (https://sketchfab.com/croustade) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
